@@ -1,0 +1,56 @@
+H:\ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe.config
+H:\ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe
+H:\ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.pdb
+H:\ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+H:\ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+H:\ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.exe
+H:\ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe.config
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.exe
+C:\Users\sgutierr\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe.config
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.exe
+C:\Users\Salva Guti\Desktop\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.pdb
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe.config
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.exe
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\bin\Debug\ReservaDeCitasMedicas.pdb
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.exe
+F:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\Proyecto. ReservaDeCitasMedicas\obj\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe.config
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.pdb
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.exe
+C:\Users\sgutierr\Desktop\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.pdb
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe.config
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.pdb
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.exe
+G:\04. PROG - DAM 20-21\Bloque3. Programación orientada a Objetos (POO)\AEV5. Aplicación ReservaCitas\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\bin\Debug\ReservaDeCitasMedicas.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ProyAlumnado. ReservaDeCitas\obj\Debug\ReservaDeCitasMedicas.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\bin\Debug\ReservaDeCitasMedicas.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\bin\Debug\ReservaDeCitasMedicas.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\bin\Debug\ReservaDeCitasMedicas.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\obj\Debug\ReservaDeCitasMedicas.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\obj\Debug\ReservaDeCitasMedicas.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\obj\Debug\ReservaDeCitasMedicas.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AEV5\ReservaDeCitas_EnriqueIzquierdo\obj\Debug\ReservaDeCitasMedicas.pdb
