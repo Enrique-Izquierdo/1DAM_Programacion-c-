@@ -1,0 +1,59 @@
+C:\Users\Salva\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Salva\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Salva\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WFempleado.csproj.GenerateResource.cache
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Salva\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Salva\Desktop\WFempleado\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Salva\Desktop\WFempleado\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Salva\Desktop\WFempleado\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WFempleado.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WFempleado.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Salva\Desktop\WFempleado\obj\Debug\WindowsFormsApp1.pdb
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe.config
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.pdb
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csprojAssemblyReference.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.GenerateResource.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.exe
+E:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe.config
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe.config
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\bin\Debug\WindowsFormsApp1.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\Desarrollos\WFempleado\obj\Debug\WindowsFormsApp1.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\bin\Debug\WindowsFormsApp1.exe.config
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\bin\Debug\WindowsFormsApp1.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\bin\Debug\WindowsFormsApp1.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WFempleado.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WindowsFormsApp1.frmPrincipal.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WFempleado.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WFempleado.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WindowsFormsApp1.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\03. Ejercicio práctico 2. WFEmpleados\WFempleado\obj\Debug\WindowsFormsApp1.pdb

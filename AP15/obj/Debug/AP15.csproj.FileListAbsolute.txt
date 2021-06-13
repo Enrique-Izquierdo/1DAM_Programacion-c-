@@ -1,0 +1,10 @@
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\bin\Debug\WindowsFormsApp1.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\bin\Debug\WindowsFormsApp1.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\bin\Debug\WindowsFormsApp1.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\AP15.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\AP15.frmPrincipal.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\AP15.csproj.GenerateResource.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\AP15.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\WindowsFormsApp1.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP15\obj\Debug\WindowsFormsApp1.pdb
