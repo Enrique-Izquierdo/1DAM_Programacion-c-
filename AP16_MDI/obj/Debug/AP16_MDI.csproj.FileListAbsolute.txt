@@ -1,0 +1,13 @@
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\bin\Debug\AP16_MDI.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\bin\Debug\AP16_MDI.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\bin\Debug\AP16_MDI.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.FrmAdministrativa.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.FrmContable.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.FrmPrincipal.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.FrmRecursosH.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.Properties.Resources.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.csproj.GenerateResource.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP16\AP16_MDI\obj\Debug\AP16_MDI.pdb
