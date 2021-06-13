@@ -1,0 +1,7 @@
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\bin\Debug\AP10_02.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\bin\Debug\AP10_02.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\bin\Debug\AP10_02.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\obj\Debug\AP10_02.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\obj\Debug\AP10_02.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\obj\Debug\AP10_02.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP10\AP10_02\obj\Debug\AP10_02.pdb
