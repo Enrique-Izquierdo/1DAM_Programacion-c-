@@ -1,0 +1,7 @@
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\bin\Debug\AP6_1.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\bin\Debug\AP6_1.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\bin\Debug\AP6_1.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\obj\Debug\AP6_1.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\obj\Debug\AP6_1.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\obj\Debug\AP6_1.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP6\AP6_1\obj\Debug\AP6_1.pdb
