@@ -1,0 +1,53 @@
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.exe.config
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.exe
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.pdb
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\MySql.Data.dll
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\Google.Protobuf.dll
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\bin\Debug\MySql.Data.xml
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csprojAssemblyReference.cache
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.frmUsuarios.resources
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.Properties.Resources.resources
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.GenerateResource.cache
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.CopyComplete
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.exe
+C:\Users\sgutierr\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - en desarrollo\obj\Debug\BD_EJ02.pdb
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.exe.config
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.exe
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\bin\Debug\BD_EJ02.pdb
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\bin\Debug\Google.Protobuf.dll
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\bin\Debug\MySql.Data.xml
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.frmUsuarios.resources
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.Properties.Resources.resources
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.CoreCompileInputs.cache
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.csproj.CopyComplete
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.exe
+C:\Users\Salva\Desktop\Desarrollos\BD_EJ02\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\03. Ejercicio practico 3. Gestión de usuarios (Aplicación)\BD_EJ02 - Final SOL1\obj\Debug\BD_EJ02.pdb

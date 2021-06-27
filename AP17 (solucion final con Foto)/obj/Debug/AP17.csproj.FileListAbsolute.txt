@@ -1,0 +1,172 @@
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\AP17.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\AP17.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\AP17.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\BD_EJ02 - Proyecto Alumnado\obj\Debug\AP17.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\AP17.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\AP17.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\AP17.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\AP17.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 - Proyecto Alumnado\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\AP17.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\AP17.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\AP17.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\AP17.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.frmUsuarios.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CopyComplete
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe.config
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\MySql.Data.dll
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\Google.Protobuf.dll
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\MySql.Data.xml
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.frmUsuarios.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CopyComplete
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe.config
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\MySql.Data.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\Google.Protobuf.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\bin\Debug\MySql.Data.xml
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csprojAssemblyReference.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.frmUsuarios.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.Properties.Resources.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.GenerateResource.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\AP17.csproj.CopyComplete
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\AP17 (solucion final)\obj\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.exe.config
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\MySql.Data.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\Google.Protobuf.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\MySql.Data.xml
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csprojAssemblyReference.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.frmUsuarios.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.Properties.Resources.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.GenerateResource.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.CopyComplete
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.frmUsuarios.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.exe.config
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\MySql.Data.dll
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\Google.Protobuf.dll
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\bin\Debug\MySql.Data.xml
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final)\obj\Debug\AP17.csproj.CopyComplete
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe.config
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\Google.Protobuf.dll
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.xml
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.frmUsuarios.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CopyComplete
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe.config
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.pdb
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\Google.Protobuf.dll
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.xml
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csprojAssemblyReference.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.frmUsuarios.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.Properties.Resources.resources
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.GenerateResource.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CopyComplete
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.exe
+E:\04. PROG - DAM 18-19\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe.config
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.pdb
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\Google.Protobuf.dll
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.xml
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csprojAssemblyReference.cache
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.frmUsuarios.resources
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.GenerateResource.cache
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CopyComplete
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.exe
+L:\04. PROG - DAM 19-20\Bloque5. Programación con acceso a datos\AP17. Aplicación (Acceso a BD Usuarios)\01. Codigo\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.pdb
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe.config
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.pdb
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\bin\Debug\Google.Protobuf.dll
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.xml
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\AP17.csprojAssemblyReference.cache
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\AP17.frmUsuarios.resources
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.Properties.Resources.resources
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.GenerateResource.cache
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CopyComplete
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.exe
+C:\Users\Salva\Desktop\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe.config
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\bin\Debug\BD_EJ02.pdb
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\bin\Debug\Google.Protobuf.dll
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\bin\Debug\MySql.Data.xml
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\AP17.csprojAssemblyReference.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\AP17.frmUsuarios.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.Properties.Resources.resources
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.GenerateResource.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CoreCompileInputs.cache
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\AP17.csproj.CopyComplete
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.exe
+F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP17 (solucion final con Foto)\obj\Debug\BD_EJ02.pdb
