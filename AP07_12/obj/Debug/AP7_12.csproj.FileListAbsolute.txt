@@ -5,3 +5,10 @@ F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\
 F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP7\AP7_12\obj\Debug\AP7_12.csproj.CoreCompileInputs.cache
 F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP7\AP7_12\obj\Debug\AP7_12.exe
 F:\Enrique\OneDrive - Florida Centre de Formació Coop.V\Programacion\Proyectos\AP7\AP7_12\obj\Debug\AP7_12.pdb
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\bin\Debug\AP7_12.exe.config
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\bin\Debug\AP7_12.exe
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\bin\Debug\AP7_12.pdb
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\obj\Debug\AP7_12.csproj.AssemblyReference.cache
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\obj\Debug\AP7_12.csproj.CoreCompileInputs.cache
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\obj\Debug\AP7_12.exe
+F:\Enrique\Documents\DAM\REPO_1DAM_Programacion-cSharp\AP07_12\obj\Debug\AP7_12.pdb
